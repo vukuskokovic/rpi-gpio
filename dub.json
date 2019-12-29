@@ -5,5 +5,6 @@
     "mainSourceFile": "api.d",
     "authors": ["Vuk Uskokovic"],
     "description": "Simple project that helps a bit with rpi gpio",
-    "copyright": "Free to use"
+    "copyright": "Free to use",
+    "licence" : "Free"
 }

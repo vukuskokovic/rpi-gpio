@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Vuk Uskokovic"
+	],
+	"copyright": "Free of all charges",
+	"description": "A project that helps with rpi gpio",
+	"license": "Free to use",
+	"name": "rpi-gpio"
+}

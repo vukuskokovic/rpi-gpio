@@ -1,0 +1,9 @@
+{
+    "name": "rpi-gpio",
+    "targetType":"none",
+    "targetName": "rpi-gpio",
+    "mainSourceFile": "api.d",
+    "authors": ["Vuk Uskokovic"],
+    "description": "Simple project that helps a bit with rpi gpio",
+    "copyright": "Free to use"
+}

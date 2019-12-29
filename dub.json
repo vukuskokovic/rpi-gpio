@@ -6,5 +6,5 @@
     "authors": ["Vuk Uskokovic"],
     "description": "Simple project that helps a bit with rpi gpio",
     "copyright": "Free to use",
-    "licence" : "Free"
+    "licence" : "GPL-3.0"
 }

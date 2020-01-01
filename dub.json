@@ -1,9 +1,7 @@
 {
-	"authors": [
-		"Vuk Uskokovic"
-	],
-	"copyright": "Free of all charges",
-	"description": "A project that helps with rpi gpio",
-	"license": "Free",
-	"name": "rpi-gpio"
+    "targetName": "rpi-gpi-api",
+    "authors": ["Vuk Uskokovic"],
+    "name": "rpi-gpio",
+    "license": "public domain",
+    "copyright": "Free of all charges",
 }
